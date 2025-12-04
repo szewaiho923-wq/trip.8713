@@ -10,7 +10,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="雪國旅記">
-    <link rel="apple-touch-icon" href="app-icon.png">
+    <link rel="apple-touch-icon" href="chiikawa-icon.png">
     
     <style>
         :root {
